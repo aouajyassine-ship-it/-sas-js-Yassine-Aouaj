@@ -7,9 +7,9 @@
 
 | Information | À compléter |
 |---|---|
-| Nom et prénom | ... |
-| Classe | ... |
-| Nom d'utilisateur GitHub | ... |
+| Nom et prénom | Yassine Aouaj |
+| Classe | Amine |
+| Nom d'utilisateur GitHub | aouajyassine-ship-it |
 
 ## 🧭 Comment travailler
 
