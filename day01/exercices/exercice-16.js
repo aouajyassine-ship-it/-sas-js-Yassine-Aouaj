@@ -14,4 +14,11 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+
+   let num = "0612345670" ;
+   if (typeof num == "string" && num.length == 10) {
+       console.log("Numéro valide")
+   } else {
+       console.log("Numéro invalide")
+   }
+   
