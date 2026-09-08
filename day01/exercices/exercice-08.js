@@ -14,4 +14,9 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+   let chaîne = "10" ;
+   let nombre = 10 ;
+   let result = chaîne === nombre ; // compare les types
+   let result1 = chaîne == nombre ; // compare les valeurs
+   console.log(result) ;
+   console.log(result1) ;
