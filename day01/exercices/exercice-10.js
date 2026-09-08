@@ -19,4 +19,18 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+  let personne ;
+   if (personne < 12) {
+       console.log("Enfant") ;
+   } else if (personne >= 12 && personne <= 17) {
+        console.log("Adolescent") ;
+        }else if (personne >= 18 && personne <= 64) {
+        console.log("Adulte") ;
+         } else if (personne >= 65) {
+            console.log("Senior") ;
+           }  else {
+                console.log("Non Admis") ;
+            }
+
+ 
+       
