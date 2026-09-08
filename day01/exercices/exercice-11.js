@@ -17,4 +17,20 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+  let panier = 350  ;
+  let livraison ;
+
+  if (panier > 500) {
+    panier = panier - (panier * 10 / 100) ;
+     } else if (panier > 200) {
+        livraison = "Gratuite" ;
+        }
+          else if (panier < 200) {
+           livraison = "Payé";
+            } else if (panier > 500) {
+              panier = panier - (panier * 10 / 100) ;
+                }else {
+                 console.log("echec")
+                  }
+                   let cf = "Coût final:" + panier + " MAD, Livraison:" + livraison ;
+                     console.log(cf);
