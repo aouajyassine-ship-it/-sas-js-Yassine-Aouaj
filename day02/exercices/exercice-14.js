@@ -14,4 +14,13 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+let i = 1 ;
+ let a ;
+   while ( true ) {
+          a = i *i ;
+          if ( a > 1000) {
+             console.log(a);
+            break 
+          }
+            i++;
+   }
