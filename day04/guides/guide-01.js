@@ -12,4 +12,4 @@
    function saluer( nom ) {
     return( "Bonjour,"+nom+"!");
    }
-   console.log(saluer ("Yassine"))
+   console.log(saluer ("Yassine")) ;
