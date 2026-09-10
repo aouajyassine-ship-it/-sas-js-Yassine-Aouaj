@@ -17,5 +17,5 @@
 // 2. Écris ta solution sous cette ligne.
 
    function  estPalindrome(mot) {
-    // n'est pas compris
+    // pas d'idée
    }
