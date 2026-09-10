@@ -26,4 +26,5 @@
         return("il n y a pas de comparaison") ;
     } 
  }
+ 
     // console.log(trouverMax(7 , 5 , 6)) ;
