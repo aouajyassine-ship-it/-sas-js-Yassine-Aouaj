@@ -1,7 +1,6 @@
 /**
  * JOUR 03 — GUIDE 03
- * La syntaxe moderne (Fonction Fléchée)
- *
+3 *
  * OBJECTIF
  * Transformez la fonction classique function carre(x) { return x * x; } en sa version la plus courte en fonction fléchée.
  *
@@ -9,4 +8,7 @@
  */
 'use strict';
 
-// TODO: écris ta solution ici.
+
+     const carre = (x) =>  {return x * x ;
+     }
+    console.log(carre( 5)) ;
