@@ -14,4 +14,16 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+ 
+ function trouverMax(a, b, c) {
+    if ( a > b && a > c) {
+        return("le plus grand est: " + a) ;
+    } else if (b > a && b > c) {
+        return("le plus grand est: " + b) ;
+    } else if (c > a && c > b) {
+        return("le plus grand est: " + c) ;
+    }else {
+        return("il n y a pas de comparaison") ;
+    } 
+ }
+    // console.log(trouverMax(7 , 5 , 6)) ;
