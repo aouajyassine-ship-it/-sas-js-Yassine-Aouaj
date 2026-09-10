@@ -9,4 +9,13 @@
  */
 'use strict';
 
-// TODO: écris ta solution ici.
+function variable() {
+ let vari = 5;
+    }
+console.log(vari);
+  /* ne travaille pas le code correct est :
+   function variable() {
+      let vari = 5;
+      console.log(vari);
+    }
+ */
