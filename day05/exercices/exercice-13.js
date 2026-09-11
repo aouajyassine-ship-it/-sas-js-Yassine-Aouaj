@@ -1,19 +1,17 @@
 /**
  * ─────────────────────────────────────────────────────────────
- * JOUR 03 · EXERCICE 13 · NIVEAU 2 : CONSOLIDATION (INTERMÉDIAIRES)
- * GÉNÉRATEUR DE MOT DE PASSE FACTICE
+ * JOUR 05 · EXERCICE 13 · NIVEAU 2 : CONSOLIDATION (INTERMÉDIAIRES)
+ * FORMATAGE MONÉTAIRE
  * ─────────────────────────────────────────────────────────────
  *
  * 🎯 MISSION
- * Écrivez une fonction genererMotDePasse(longueur) qui génère et retourne une chaîne aléatoire contenant X fois la lettre "A" ou un chiffre aléatoire. (Utilisez Math.random()).
+ * Créez une fonction formater(montant) qui prend 1234567 (Number ou String) et retourne "1 234 567 MAD". (Vous pouvez chercher comment utiliser les regex pour insérer des espaces, ou utiliser les boucles/slice).
  *
  * 📖 Consigne détaillée : ../03-exercices.md#exercice-13
- * ▶️ Commande : node day03/exercices/exercice-13.js
+ * ▶️ Commande : node day05/exercices/exercice-13.js
  */
 'use strict';
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-   function genererMotDePasse(longueur) {
-       
-   }
+// TODO: écris ta solution ici.

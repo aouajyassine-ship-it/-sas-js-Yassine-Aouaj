@@ -1,19 +1,17 @@
 /**
  * ─────────────────────────────────────────────────────────────
- * JOUR 03 · EXERCICE 13 · NIVEAU 2 : CONSOLIDATION (INTERMÉDIAIRES)
- * GÉNÉRATEUR DE MOT DE PASSE FACTICE
+ * JOUR 05 · EXERCICE 16 · NIVEAU 3 : DÉFI (AVANCÉS)
+ * EXTRACTION DE HASHTAGS
  * ─────────────────────────────────────────────────────────────
  *
  * 🎯 MISSION
- * Écrivez une fonction genererMotDePasse(longueur) qui génère et retourne une chaîne aléatoire contenant X fois la lettre "A" ou un chiffre aléatoire. (Utilisez Math.random()).
+ * À partir d'un tweet : "Beau temps à #Nador aujourd'hui avec la team #YouCode !", extrayez tous les hashtags et retournez-les dans un tableau ["#Nador", "#YouCode"].
  *
- * 📖 Consigne détaillée : ../03-exercices.md#exercice-13
- * ▶️ Commande : node day03/exercices/exercice-13.js
+ * 📖 Consigne détaillée : ../03-exercices.md#exercice-16
+ * ▶️ Commande : node day05/exercices/exercice-16.js
  */
 'use strict';
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-   function genererMotDePasse(longueur) {
-       
-   }
+// TODO: écris ta solution ici.

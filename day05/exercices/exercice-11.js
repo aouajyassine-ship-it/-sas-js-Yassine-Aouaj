@@ -1,19 +1,18 @@
 /**
  * ─────────────────────────────────────────────────────────────
- * JOUR 03 · EXERCICE 13 · NIVEAU 2 : CONSOLIDATION (INTERMÉDIAIRES)
- * GÉNÉRATEUR DE MOT DE PASSE FACTICE
+ * JOUR 05 · EXERCICE 11 · NIVEAU 2 : CONSOLIDATION (INTERMÉDIAIRES)
+ * GÉNÉRATEUR D'ACRONYME
  * ─────────────────────────────────────────────────────────────
  *
  * 🎯 MISSION
- * Écrivez une fonction genererMotDePasse(longueur) qui génère et retourne une chaîne aléatoire contenant X fois la lettre "A" ou un chiffre aléatoire. (Utilisez Math.random()).
+ * À partir de la phrase "Hyper Text Markup Language", retournez "HTML".
+ * Indice : Découpez en mots, bouclez, prenez la première lettre de chaque mot, mettez en majuscule, et rejoignez le tout.
  *
- * 📖 Consigne détaillée : ../03-exercices.md#exercice-13
- * ▶️ Commande : node day03/exercices/exercice-13.js
+ * 📖 Consigne détaillée : ../03-exercices.md#exercice-11
+ * ▶️ Commande : node day05/exercices/exercice-11.js
  */
 'use strict';
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-   function genererMotDePasse(longueur) {
-       
-   }
+// TODO: écris ta solution ici.
