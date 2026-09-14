@@ -76,7 +76,7 @@ la propriété `.length` d'un tableau vide `[]` return 0
 
 - [ x ] J'ai recherché et compris la notion.
 
-**Ma réponse :**
+**Ma réponse :*
 for in : permet d'affiché l'index, exemple :
   let names :[Yassine , Amin , Ahmed]
   for (let index in names) {
