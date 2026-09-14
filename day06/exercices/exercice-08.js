@@ -15,9 +15,8 @@
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
 
-let tableau = [];
  function nombres (tableau) {
-     tableau = [21,255,1,12,23,19] ;
+    //  tableau = [21,255,1,12,23,19] ;
      let max = tableau[0];
      let min = tableau[0];
      for (let i = 0 ; i < tableau.length ; i++) {
@@ -27,7 +26,6 @@ let tableau = [];
                min= tableau[i] ; 
         }
      } 
-   console.log (max);
-   console.log (min); 
+   console.log("le plus grand nombre est: "+max+", le plus petit numéro est: " +min );
 }
-nombres(tableau);
+nombres([21,255,1,12,23,19]);
