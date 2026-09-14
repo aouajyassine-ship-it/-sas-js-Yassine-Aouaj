@@ -9,4 +9,6 @@
  */
 'use strict';
 
-// TODO: écris ta solution ici.
+let notes = [12, 15, 8, 19,55] ;
+ let moyenne = notes[0] + notes[1] + notes[2] + notes[3] ;
+ console.log(moyenne) ;
