@@ -23,4 +23,10 @@
 'use strict';
 
 // Découpe d'abord le problème en petites étapes.
-// TODO: écris ta solution ici.
+   let liste = ["noob", "idiot", "nul"] ;
+   function filtrerMessage(message) {
+    if (message == "noob" ) {
+        
+
+    }
+   }

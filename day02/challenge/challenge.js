@@ -18,7 +18,7 @@
  * 📖 Consigne détaillée : ./README.md
  * ▶️ Commande : node day02/challenge/challenge.js
  */
-'use strict';
-
+'use strict'
 // Découpe d'abord le problème en petites étapes.
-// TODO: écris ta solution ici.
+
+

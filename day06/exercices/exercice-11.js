@@ -1,12 +1,11 @@
 /**
  * ─────────────────────────────────────────────────────────────
- * JOUR 05 · EXERCICE 11 · NIVEAU 2 : CONSOLIDATION (INTERMÉDIAIRES)
- * GÉNÉRATEUR D'ACRONYME
+ * JOUR 06 · EXERCICE 11 · NIVEAU 2 : CONSOLIDATION (INTERMÉDIAIRES)
+ * ÉCHANTILLONNAGE (SLICE)
  * ─────────────────────────────────────────────────────────────
  *
  * 🎯 MISSION
- * À partir de la phrase "Hyper Text Markup Language", retournez "HTML".
- * Indice : Découpez en mots, bouclez, prenez la première lettre de chaque mot, mettez en majuscule, et rejoignez le tout.
+ * À partir d'un grand tableau de 100 éléments, utilisez .slice() pour extraire les 10 premiers (la première page).
  *
  * 📖 Consigne détaillée : ../03-exercices.md#exercice-11
  * ▶️ Commande : node day05/exercices/exercice-11.js
@@ -15,11 +14,4 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-       let phrase = "Hyper Text Markup Language";
-       let mots =phrase.split(" ") ;
-       let resultat = "" ;
-       for (let i = 0; i < mots.length; i++ ) {
-          resultat = resultat + mots[i][0].toUpperCase() ;
-       }
-       console.log(resultat) ;
-       
+// TODO: écris ta solution ici.

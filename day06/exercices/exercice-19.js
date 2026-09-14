@@ -1,11 +1,11 @@
 /**
  * ─────────────────────────────────────────────────────────────
- * JOUR 05 · EXERCICE 19 · NIVEAU 3 : DÉFI (AVANCÉS)
- * VALIDATEUR DE PLAQUE D'IMMATRICULATION (REGEX BASIQUE)
+ * JOUR 06 · EXERCICE 19 · NIVEAU 3 : DÉFI (AVANCÉS)
+ * RECHERCHE BINAIRE (CONCEPT DE BASE)
  * ─────────────────────────────────────────────────────────────
  *
  * 🎯 MISSION
- * Simulez la vérification d'une plaque d'immatriculation marocaine. Le format attendu est "1234-A-56" ou "12345-AB-6". Pour simplifier, vérifiez qu'elle contient deux tirets et qu'une des sections au milieu est une lettre. L'utilisation d'expressions régulières (Regex) est recommandée ici !
+ * Contrairement à la recherche linéaire (parcourir tout le tableau un par un), la recherche binaire cherche un élément dans un tableau TRIÉ en coupant l'espace de recherche en deux à chaque fois. Essayez de comprendre et d'implémenter ce concept pour trouver l'index de 45 dans [10, 20, 30, 40, 45, 50, 60].
  *
  * 📖 Consigne détaillée : ../03-exercices.md#exercice-19
  * ▶️ Commande : node day05/exercices/exercice-19.js
@@ -14,4 +14,4 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-
+// TODO: écris ta solution ici.

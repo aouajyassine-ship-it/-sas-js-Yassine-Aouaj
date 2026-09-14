@@ -14,5 +14,5 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-   let phrase = "Bonjour le monde";
-   console.log(phrase.reverse()) ;
+//    let phrase = "Bonjour le monde";
+//    console.log(phrase.reverse()) ;   
