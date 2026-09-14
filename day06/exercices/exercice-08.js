@@ -14,4 +14,20 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+
+let tableau = [];
+ function nombres (tableau) {
+     tableau = [21,255,1,12,23,19] ;
+     let max = tableau[0];
+     let min = tableau[0];
+     for (let i = 0 ; i < tableau.length ; i++) {
+        if (tableau[i] >= max) {
+            max = tableau[i] ;
+        } else if(tableau[i] <= min){
+               min= tableau[i] ; 
+        }
+     } 
+   console.log (max);
+   console.log (min); 
+}
+nombres(tableau);
