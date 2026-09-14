@@ -14,4 +14,16 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+    let result = [] ;
+    let div ;
+    function doublons (tableau) {
+    tableau = [1, 2, 2, 3, 4, 4, 5] ;
+    for (let i = 0 ; i < tableau.length ; i++) {
+        if (!result.includes(tableau[i])) {
+            result.push(tableau[i]);
+        }
+}
+
+    return result;
+}
+    // console.log(doublons([1, 2, 2, 3, 4, 4, 5]));
