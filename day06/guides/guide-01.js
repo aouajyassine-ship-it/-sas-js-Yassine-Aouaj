@@ -8,5 +8,7 @@
  * Aide : consulte ../02-guides.md seulement si tu bloques.
  */
 'use strict';
-
-// TODO: écris ta solution ici.
+    let fruits = ["Pomme", "Banane", "Orange"] ;
+     fruits.splice( 1 , 1 , "Mangue" );
+     console.log(fruits) ;
+  
