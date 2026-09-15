@@ -14,4 +14,18 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+ let caracteres = "abracadabra" ;
+ let tableau = caracteres.split("");
+ function lettres (lettre) {
+    let resultat = {};
+    for (let i = 0; i < lettre.length; i++) {
+        if (resultat[lettre[i]]) {
+            resultat[lettre[i]]++;
+        } else {
+            resultat[lettre[i]] = 1;
+        }
+    }
+    return resultat;
+}
+console.log(lettres(tableau));
+ 
