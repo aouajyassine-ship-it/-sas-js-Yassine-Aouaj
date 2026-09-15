@@ -14,4 +14,27 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+  function candidat (nom){
+    let candidats = [
+    {
+    nom: "Yassine",
+    score: 85
+    },
+    {
+    nom: "Amine",
+    score: 72
+    },
+    {
+    nom: "Sara",
+    score: 91
+    },
+    {
+    nom: "Omar",
+    score: 64
+    }
+]
+ for (let i = 0 ; i < candidat.length ; i++ ) {
+    
+ }
+
+  }

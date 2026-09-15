@@ -19,7 +19,7 @@ let utilisateur = {
     age:  20 ,
     estAdmin : true
    };
-   utilisateur.age = 1;
+   utilisateur.age += 1;
    utilisateur.gmail = "aouajyassine@gmail.com"
    
-//    console.log(utilisateur);
+   console.log(utilisateur);
