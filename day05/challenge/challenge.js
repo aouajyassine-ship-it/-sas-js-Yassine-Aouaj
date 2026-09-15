@@ -21,12 +21,16 @@
  * ▶️ Commande : node day05/challenge/challenge.js
  */
 'use strict';
-
 // Découpe d'abord le problème en petites étapes.
-   let liste = ["noob", "idiot", "nul"] ;
-   function filtrerMessage(message) {
-    if (message == "noob" ) {
-        
+   'use strict';
 
-    }
-   }
+let liste = ["noob", "idiot", "nul"];
+function filtrerMessage(message) {
+for (let i = 0; i < liste.length; i++) {
+ let etoiles = "*".repeat(liste[i].length);
+}
+ return message;
+}
+console.log(
+    filtrerMessage("Tu es vraiment un GROS NooB et un idiot !!")
+);
